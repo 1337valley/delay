@@ -1,3 +1,4 @@
 <?php
-sleep(5);
+sleep(30);
+echo ':)\n';
 ?>
